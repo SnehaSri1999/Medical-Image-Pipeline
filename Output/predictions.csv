@@ -1,0 +1,10 @@
+filename,predicted_class
+testimg_1_label_3.png,5
+skin_lesion_test1.png,3
+skin_lesion_test3.png,1
+skin_lesion_test4.png,5
+skin_lesion_test5.png,5
+skin_lesion_test6.png,4
+skin_lesion_test7.png,1
+skin_lesion_test8.png,2
+skin_lesion_test9.png,4
